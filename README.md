@@ -37,7 +37,6 @@
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -48,7 +47,6 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -59,7 +57,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * [Google](https://google.com)
 * [ChatbotGPT](https://chat.openai.com/chat)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
