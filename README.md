@@ -18,7 +18,7 @@
 <h3 align="center">Lincoln Southwest Silverhawks</h3>
 
   <p align="center">
-    Welcome to the (not) official page of the LSW Silverhawks!
+    Welcome to the (not so) official page of the LSW Silverhawks!
     <br />
     <a href="https://google.com"><strong>Have a look around »</strong></a>
     <br />
