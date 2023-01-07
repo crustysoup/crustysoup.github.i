@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="lsw.png" alt="Logo" width="355" height="152">
+    <img src="lsw.png" alt="Logo" width="325" height="152">
   </a>
 
 <h3 align="center">Lincoln Southwest Silverhawks</h3>
@@ -23,7 +23,7 @@
     <a href="https://google.com"><strong>Have a look around »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">Questions</a>
+    <a href="https://google.com/">Questions</a>
     ·
     <a href="https://google.com/">Report Bug</a>
     ·
