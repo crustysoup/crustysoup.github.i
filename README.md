@@ -55,9 +55,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [hi]()
-* []()
-* []()
+* [Mr. Handelman](https://www.facebook.com/scotthandelman/)
+* [Google](https://google.com)
+* [ChatbotGPT](https://chat.openai.com/chat)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
