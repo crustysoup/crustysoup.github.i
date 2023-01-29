@@ -1,0 +1,34 @@
+1.3.0
+-Buy Max A Price Refreshes Automaticly every Second Now
+-Added File for chanelog
+1.4.0
+-If you don't have enough mony to buy somthing it will be grayed out
+1.4.0a
+-Link to my Subbreddid added
+1.4.0b
+-Added Link to Basic Idle 2
+1.5.0
+-The Last Number will becoume green if it'S recommedet to buy it
+-The Game is harder/slower now if It's to slow post it in the subbreddit
+1.5.1
+-Bufixes
+1.5.1a
+-Added Google Analytics
+1.5.2
+-Set Bacground Color to White
+1.6.0
+-The buy A button now shows how many you buy
+1.6.0a
+-Testing Kongregate statistics API
+-Added version information at the bottom of the page
+-removed Version.txt
+1.7.0
+-Added Kongregate statistics (I don't know If they will work)
+-Added Confirmation to the Reset button
+-Buttons are now looking better
+1.7.1
+-Stat API Fix (Maybe)
+1.7.2
+-Minor Visual Improvments
+1.7.3
+-Fixed BuyMax A bug (maybe)

@@ -1,0 +1,8 @@
+ABasPreis=10
+BBasPreis=300
+CBasPreis=60000
+ExABasPreis=20000000
+PreisErhA = 1.205
+PreisErhB = 8
+PreisErhC = 8.4
+PreisErhExA = 9.6
