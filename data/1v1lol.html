@@ -42,15 +42,15 @@
   
   }
 
-  function unityAdFinishedCallback(){
+function unityAdFinishedCallback(){
   try{
    if(gameInstance)
-    gameInstance.SendMessage(&#39;MainMenuManagers&#39;, &#39;OnWebCallback&#39;);
+    gameInstance.SendMessage('MainMenuManagers', 'OnWebCallback');
   }
   catch(error){
    console.log(error);
   }
- }
+}
   function onUnityReady() {
 
      sendConfig();
